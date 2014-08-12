@@ -1,0 +1,34 @@
+CardioSDK_1.6_Android/BitGymCardioSDK Sample/.settings/
+CardioSDK_1.6_Android/BitGymCardioSDK Sample/bin/
+.metadata/
+GemApp/.settings/
+GemApp/bin/AndroidManifest.xml
+GemApp/bin/
+BitGymCardioSDK Sample/bin/
+BitGymCardioSDK Sample/gen/
+BitGymCardioSDK Sample/.settings/
+BitGymCardioSDK/bin/
+BitGymCardioSDK/.settings/
+google-play-services_lib/bin/
+google-play-services_lib/.settings/
+google-play-services_lib/.classpath
+google-play-services_lib/.project
+google-play-services_lib/proguard.txt
+google-play-services_lib/project.properties
+google-play-services_lib/README.txt
+GemApp/.classpath
+GemApp/.project
+GemApp/proguard-project.txt
+GemApp/project.properties
+BitGymCardioSDK Sample/.classpath
+BitGymCardioSDK Sample/.project
+BitGymCardioSDK Sample/bg_debug.log
+BitGymCardioSDK/.classpath
+BitGymCardioSDK/.project
+BitGymCardioSDK/README.md
+BitGymCardioSDK/bg_debug.log
+BitGymCardioSDK/gdb_exec
+BitGymCardioSDK/proguard-project.txt
+BitGymCardioSDK/project.properties
+BitGymCardioSDK Sample/proguard-project.txt
+BitGymCardioSDK Sample/project.properties
