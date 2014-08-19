@@ -206,6 +206,12 @@ public class SampleCardioActivity extends BitGymCardioActivity {
         getMenuInflater().inflate(R.menu.sample_cardio_activity, menu);
         return true;
     }
+    
+    @Override
+    public void onBackPressed() {
+    	isStart = false;
+    	super.onBackPressed();
+    }
 
     // The listener defined above is unregistered when the application is paused
     // to
