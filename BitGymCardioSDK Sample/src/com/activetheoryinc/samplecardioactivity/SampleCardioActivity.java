@@ -211,6 +211,7 @@ public class SampleCardioActivity extends BitGymCardioActivity {
     public void onBackPressed() {
     	isStart = false;
     	super.onBackPressed();
+    	
     }
 
     // The listener defined above is unregistered when the application is paused
