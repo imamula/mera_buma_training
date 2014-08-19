@@ -377,6 +377,7 @@ public class MainActivity extends FragmentActivity {
 
             // Catch errors with the provided geofence IDs
         } catch (IllegalArgumentException e) {
+        	
             e.printStackTrace();
         } catch (UnsupportedOperationException e) {
             // Notify user that previous request hasn't finished.
