@@ -1,8 +1,0 @@
-<resources>
-
-    <string name="app_name">TestTask</string>
-    <string name="start_string">Start Point</string>
-    <string name="end_string">End Point</string>
-    <string name="finding_route">Finding route</string>
-
-</resources>
